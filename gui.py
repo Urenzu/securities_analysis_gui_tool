@@ -13,7 +13,7 @@ class FinanceApp(tk.Tk):
     def __init__(self):
         super().__init__()
 
-        self.title("Finance Calculator")
+        self.title("Securities Analysis Tool")
         self.geometry("400x400")
 
         self.main_menu()
